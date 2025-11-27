@@ -1,6 +1,5 @@
 flask
-gunicorn
+flask-cors
 numpy
 opencv-python-headless
-dlib==19.24.0
-face_recognition
+insightface
